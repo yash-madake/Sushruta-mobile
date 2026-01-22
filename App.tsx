@@ -9,6 +9,7 @@ export default function App() {
     <SafeAreaProvider>
       
       <NavigationContainer>
+        {/*Navbar root directroy*/}
         <RootNavigator />
         
         {/* Controls the status bar text color (Time, Battery level, etc.) */}
